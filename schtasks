@@ -1,0 +1,1 @@
+schtasks /create /tn checkin /tr D:\Source\checkin\timer.bat /sc DAILY /st 10:00:00
